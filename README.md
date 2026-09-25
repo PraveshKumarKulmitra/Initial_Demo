@@ -1,4 +1,4 @@
 # Initial_Demo
 This is my first Git repository.
 <br>
-Author- Pravesh Kumar
+Author- Pravesh Kumar Kumlitra
